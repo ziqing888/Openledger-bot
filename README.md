@@ -51,10 +51,16 @@ socks5://proxy2.example.com:1080
 http://username:password@proxy3.example.com:3128
 ```
 ## 运行程序
+启动一个新的会话屏幕：
+```
+screen -S openledger-bot
+```
 启动脚本：
 ```
 node index.js
 ```
+会话屏幕挂起（退出但不终止任务）： 按下 Ctrl + A，然后按 D 键，即可将当前会话挂起。
+
 ## 注意事项
 data.json 文件：
 
