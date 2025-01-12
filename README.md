@@ -38,6 +38,7 @@ npm install
 ## 配置文件
 account.txt
 在项目根目录创建一个 account.txt 文件，用于存储钱包地址，每行一个。例如：
+
 钱包地址是在网站上的地址
 ```
 0x1234567890abcdef1234567890abcdef12345678
