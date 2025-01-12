@@ -1,0 +1,21 @@
+{
+  "name": "openledger-bot",
+  "version": "1.0.0",
+  "description": "OpenLedger 自动化机器人，支持多账户 WebSocket 连接和代理功能。",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "colors": "^1.4.0",
+    "fs": "0.0.1-security",
+    "readline": "1.3.0",
+    "uuid": "^9.0.0",
+    "ws": "^8.12.0",
+    "https-proxy-agent": "^5.0.1"
+  }
+}
