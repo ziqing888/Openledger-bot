@@ -30,7 +30,7 @@ OpenLedger Bot 是一款为 OpenLedger 平台设计的自动化工具，用于�
     ```
    进入项目目录：
     ```
-    cd openledger-bot
+    Openledger-bot
 2.安装必要的依赖：
 ```
 npm install
